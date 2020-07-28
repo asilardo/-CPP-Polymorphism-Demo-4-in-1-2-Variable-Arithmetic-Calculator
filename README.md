@@ -5,3 +5,7 @@
 -The program contains 2 variables which accept user-input to perform the calculations
 
 -Outputs for the sum, difference, product and quotient are displayed in the console
+
+
+# Demonstration of Code:
+![](images/DEMO.gif)
